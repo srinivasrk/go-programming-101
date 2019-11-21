@@ -29,8 +29,8 @@ func Sqrt(x float64) float64 {
 	return z
 }
 
-func main() {
+func main2() {
 	fmt.Println(
-		Sqrt(-1),
+		Sqrt(16),
 	)
 }

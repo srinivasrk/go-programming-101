@@ -1,5 +1,5 @@
-// main is the package - go program is made up of packages
-package main
+//Package hello is the package - go program is made up of packages
+package hello
 
 import ( 
 	"fmt"
